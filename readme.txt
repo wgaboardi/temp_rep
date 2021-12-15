@@ -12,3 +12,12 @@ git commit -m "Initial"
 git push origin master -u
 
 git log --oneline
+
+
+#Linux
+
+sudo apt install git
+ssh-keygen -t rsa -C "user@gmail.com"
+#conteudo do arquivo id_rsa vai para o github
+
+
