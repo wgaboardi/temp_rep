@@ -10,3 +10,5 @@ git remote add origin git@github.com:wgaboardi/temp_rep.git
 git add .
 git commit -m "Initial"
 git push origin master -u
+
+git log --oneline
